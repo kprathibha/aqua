@@ -1,4 +1,7 @@
 <?php 
+
+//Code for insert data
+
  	$tableno = $_POST['Table_No'];
     $WName = $_POST['WName'];        
     $name = $_POST['name'];
