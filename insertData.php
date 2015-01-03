@@ -1,5 +1,4 @@
 <?php 
-session_start();//Session Starts Here
 
 //Code for insert data
 
